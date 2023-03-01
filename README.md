@@ -12,11 +12,10 @@ Atualmente sou estudante do curso de Ciência da Computação, sou desenvolvedor
 </div>
 
 ##
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=laissmoreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissmoreira&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
 
+
+ <a href="https://github.com/laissmoreira/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laissmoreira&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/laissmoreira/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissmoreira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 ##
 ### Contatos:
 
@@ -25,4 +24,5 @@ Atualmente sou estudante do curso de Ciência da Computação, sou desenvolvedor
   <a href="https://www.instagram.com/moreiralais12/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laismoreira1224@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 

@@ -14,7 +14,7 @@ Atualmente sou estudante do curso de Ciência da Computação, sou desenvolvedor
 ##
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=laissmoreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissmoreira&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissmoreira&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 ##

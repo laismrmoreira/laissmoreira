@@ -3,9 +3,9 @@ Atualmente sou estudante do curso de Ciência da Computação, sou desenvolvedor
 ##
 
 ### Tecnologias:
-- Front-end com HTML, CSS e Javascript 
+- Front-end com HTML, CSS e Javascript.
 - Design da interface do usuário.
-- Back-end com Python
+- Back-end com Python.
 
 <div style="display: inline_block"><br>
 <img align="center" alt="laissmoreira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="laissmoreira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="laissmoreira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="laissmoreira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

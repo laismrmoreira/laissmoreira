@@ -3,9 +3,11 @@ Atualmente sou estudante do curso de Ciência da Computação, sou desenvolvedor
 ##
 
 ### Tecnologias:
-- Front-end com HTML, CSS e Javascript.
+- Front-end com HTML, CSS e Javascript <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 - Design da interface do usuário.
-- Back-end com Python
+- Back-end com Python <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 
 ##
 <div>

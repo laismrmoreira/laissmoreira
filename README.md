@@ -1,4 +1,12 @@
-### Oi! Eu sou a Laís Moreira
+### Oie, seja muito bem-vindo!
+Meu nome é Laís, tenho 18 anos e atualmente estou cursando Ciência da Computação, sou desenvolvedora full-stack com foco em Javascript (Front-end) e Python (Back-end), tive meu primeiro contato com a área através da criação de pequenas aplicações com Python, hoje
+
+
+### Tecnologias:
+- Desenvolvimento front-end com HTML, CSS e Javascript.
+- Design da interface do usuário.
+
+
 
 
 <div>

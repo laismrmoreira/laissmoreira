@@ -1,4 +1,4 @@
-### Oie, eu sou a Laís Moreira!
+### Olá, eu sou a Laís Moreira!
 Atualmente sou estudante do curso de Ciência da Computação, sou desenvolvedora full-stack com foco em Javascript (Front-end) e Python (Back-end).
 ##
 

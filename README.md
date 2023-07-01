@@ -1,6 +1,6 @@
-### Oi, eu sou a Laís!
-Sou estudante de Ciência da Computação e estou no processo de me tornar uma desenvolvedora web.
-##
+### Sobre mim:
+Oi, eu sou a Laís!
+
 
 ### Tecnologias:
 - Front-end com HTML, CSS e Javascript.
@@ -26,4 +26,15 @@ Sou estudante de Ciência da Computação e estou no processo de me tornar uma d
 
 </div>
 
+Technologies
+iOS Development with Swift (UIKit and SwiftUI).
+Front-end Development with HTML, CSS, Javascript, React and NextJS.
+User Interface Design.
+Web Design with Elementor and Webflow.
+Content Creator at:
+Instagram - @girl.coding
+Youtube - Girl Coding
+Contact Me
+Linkedin
+E-mail
 

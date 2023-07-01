@@ -1,14 +1,10 @@
 ### Sobre mim:
 Oi, eu sou a Laís!
 
-
 ### Tecnologias:
-- Front-end com HTML, CSS e Javascript.
-- Design da interface do usuário.
+- Desenvolvimento Front-end com HTML, CSS e Javascript.
 
-<div style="display: inline_block"><br>
-<img align="center" alt="laissmoreira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="laissmoreira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="laissmoreira-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" 
-</div>
+
 
 ##
 
@@ -26,11 +22,14 @@ Oi, eu sou a Laís!
 
 </div>
 
-Technologies
-iOS Development with Swift (UIKit and SwiftUI).
-Front-end Development with HTML, CSS, Javascript, React and NextJS.
+### Tecnologias e habilidades:
+<div>
+ <a href="https://www.linkedin.com/in/la%C3%ADs-moreira-369711263/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
+</div>
+
+
 User Interface Design.
-Web Design with Elementor and Webflow.
+
 Content Creator at:
 Instagram - @girl.coding
 Youtube - Girl Coding

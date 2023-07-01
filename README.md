@@ -17,7 +17,7 @@ Meu nome é Laís e sou estudante de Ciência da Computação.
 
 <div> 
   <a href="https://www.linkedin.com/in/la%C3%ADs-moreira-369711263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:laismoreira1224@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatolaissmoreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/coderaisu/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 

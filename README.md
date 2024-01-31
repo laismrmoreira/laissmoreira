@@ -15,9 +15,6 @@ Meu nome é Laís e sou estudante de Ciência da Computação.
   <a href="https://github.com/laissmoreira/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissmoreira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 ##
 
-### Criadora de conteúdo:
-  <a href = "https://www.instagram.com/coderaisu/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-
 ###  Contatos:
 <div> 
   <a href="https://www.linkedin.com/in/la%C3%ADs-moreira-369711263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> 
